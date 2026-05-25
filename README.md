@@ -14,6 +14,6 @@ Contributors are encouraged to:
 - include dependency and environment information
 - document key inputs, outputs, and processing steps
 
-Long-Term Goal
+Long-Term Goal:
 The long-term objective is to progressively harmonise independently developed pipelines into a more unified, modular, and maintainable ecosystem that supports interoperability and future collaborative development within APPN.
 
